@@ -1,4 +1,6 @@
 import os
+os.system('sudo apt install mpg321')
+os.system('pip install -r requirment.txt')
 import time
 import colors
 import voice
@@ -9,7 +11,7 @@ def clear_screen():
     os.system('clear')
 
 
-os.system('pip install -r requirment.txt')
+
 clear_screen()
 
 def say_hi():

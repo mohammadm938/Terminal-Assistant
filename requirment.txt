@@ -1,4 +1,4 @@
-pip install colorama
-pip install gtts
-pip install pathlib
-pip install notify2
+colorama
+gtts
+pathlib
+notify2
